@@ -1,11 +1,13 @@
 # Product name
-### Price: 1$
+#### Author: Iv Misticos
+#### Price: 1$
 
 ## Description
 Just a description.
 
 ## Demonstration
 Photo:
+
 ![](https://files.facepunch.com/s/0d009124d9bc.png)
 
 ## Configuration
