@@ -1,4 +1,4 @@
-# Authors of products and other things
+# Authors
 Here we provide a list of our authors and their contacts.
 
 ## Iv Misticos

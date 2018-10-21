@@ -7,14 +7,16 @@
 
 1.3 License in GitHub repository is appliable only for it's (repository's) files.
 
-## 2. Public Product Purchase
-2.1 After purchasing any of our products you acquire their lifetime updates of them.
+## 2. Public Product *(In this section - product)* Purchase
+2.1 After purchasing any of our paid products you acquire their lifetime updates.
 
-2.2 Customer must pay before getting the product.
+2.2 Customer must pay before getting the paid product.
 
-2.3 Sharing public product will result in a punishment (see 1.2).
+2.3 Sharing paid product will result in a punishment (see 1.2).
 
-## 3. Private Product Order
+2.4 We cannot guarantee frequent updates, quick support and permanent workability for free products.
+
+## 3. Private* Product *(In this section - product)* Order
 3.1 After receiving and confirming the workability of any of your orders from us buyer loses the ability to request any changes in the plugin.
 
 3.2 Before requesting a plugin development you must provide a technical task.
@@ -26,4 +28,8 @@
 ## 4. Payment and Refund
 4.1 Customer must pay all fees and taxes.
 
-4.2 You can request a refund if the plugin hasn't been completed or it doesn't match pre-made technical task.
+4.2 Customer can request a refund if the plugin hasn't been completed or it doesn't match customer's pre-made technical task.
+
+### Definitions
+* **Public product** *is a product everyone can buy or download.*
+* **Private product** *is a product that was ordered by customer only and no-one else can use it.*
