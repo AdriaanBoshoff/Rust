@@ -1,5 +1,23 @@
 |ID|Name|
 |:-:|:-|
+|1535660827|Beauty Kills|
+|1547874663|Troll Daddy Mask|
+|1205721755|Lost Hope Door|
+|1549426268|Polymer AK47|
+|1553005167|Tempered SAP - Ornate|
+|1547157690|Varangian Chest|
+|1529745641|Sea Supply Box|
+|1362224646|Sea Monster Python|
+|1196352289|Box from Hell|
+|1539143998|House of Horror|
+|1535995784|Bogeyman LR300|
+|1539007965|T-Bone AK47|
+|1539409946|Scarecrow AK47|
+|1539570583|Night Stalker Kilt|
+|1539573170|Night Stalker Vest|
+|1539575334|Night Stalker Helmet|
+|1539681696|Hell-o-ween Wooden Door|
+|1539005624|Ghostly Flame|
 |1539318940|Nightmare AK47|
 |1536482422|Frankenstein Revolver|
 |1539652650|Scary Kilt|

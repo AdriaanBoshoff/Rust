@@ -16,7 +16,7 @@
 
 2.4 We cannot guarantee frequent updates, quick support and permanent workability for free products.
 
-## 3. Private Product*
+## 3. Private Products*
 3.1 After receiving and confirming the workability of any of your orders from us buyer loses the ability to request any changes in the plugin.
 
 3.2 Before requesting a plugin development you must provide a technical task.

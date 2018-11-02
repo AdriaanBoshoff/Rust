@@ -136,8 +136,8 @@
 |479143914|gears|Gears|0|False|
 |999690781|geiger.counter|Geiger Counter|50|False|
 |-1819763926|generator.wind.scrap|Wind Turbine|0|False|
-|1366282552|burlap.gloves|Burlap Gloves|0|False|
-|-1507486003|leather.gloves|Leather Gloves|0|False|
+|21402876|burlap.gloves.new|Burlap Gloves|0|False|
+|1366282552|burlap.gloves|Leather Gloves|0|False|
 |-699558439|roadsign.gloves|Roadsign Gloves|0|False|
 |-1108136649|tactical.gloves|Tactical Gloves|0|False|
 |-690276911|gloweyes|Glowing Eyes|100|False|
@@ -150,6 +150,7 @@
 |143803535|grenade.f1|F1 Grenade|0|False|
 |-2124352573|fun.guitar|Acoustic Guitar|100|False|
 |-265876753|gunpowder|Gun Powder|0|False|
+|-1759188988|habrepair|Hab Repair|100|False|
 |1070894649|male_hairstyle_01|m-hairstyle-1|0|False|
 |649305917|female_hairstyle_02|f-hairstyle-2|0|False|
 |-295117143|halloween.lootbag|Halloween Loot Bag|0|False|
@@ -198,7 +199,7 @@
 |37122747|keycard_green|Green Keycard|4|False|
 |-1880870149|keycard_red|Red Keycard|4|False|
 |1814288539|knife.bone|Bone Knife|100|True|
-|-778367295|rifle.l96|L96 Rifle|100|True|
+|-778367295|rifle.l96|L96 Rifle|60|True|
 |-316250604|ladder.wooden.wall|Wooden Ladder|100|True|
 |-1663759755|trap.landmine|Land Mine|0|False|
 |1658229558|lantern|Lantern|100|False|
@@ -302,6 +303,8 @@
 |-277057363|water.salt|Salt Water|0|False|
 |-1978999529|salvaged.cleaver|Salvaged Cleaver|150|True|
 |1326180354|salvaged.sword|Salvaged Sword|300|True|
+|-384243979|ammo.rocket.sam|SAM Ammo|0|False|
+|-1009359066|samsite|SAM Site|100|True|
 |-575483084|santahat|Santa Hat|100|False|
 |177226991|scarecrow|Scarecrow|100|True|
 |-253079493|hazmatsuit_scientist|Scientist Suit|0|False|
