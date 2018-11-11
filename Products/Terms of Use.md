@@ -1,4 +1,4 @@
-# Terms of Use (Last updated: 21.10.18)
+# Terms of Use (Last updated: 11.11.18)
 
 ## 1. Global Terms
 1.1 By accessing any of our content, you are agreeing to be bound by these Terms of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing any of this content.
@@ -30,7 +30,9 @@
 ## 4. Payment and Refund
 4.1 Customer must pay all fees and taxes.
 
-4.2 Customer can request a refund if the plugin hasn't been completed or it doesn't match customer's pre-made technical task.
+4.2 Customer can request a refund if the plugin hasn't been completed or it doesn't match customer's pre-made technical task. (Exclusion: see 4.3)
+
+4.3 Customer cannot request a refund if the customer has not complied with paragraph 3.5.
 
 ### Definitions
 * **Public product** *is a product that can be bought or downloaded by any customer.*
