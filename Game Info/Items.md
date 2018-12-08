@@ -17,6 +17,7 @@
 |-1685290200|ammo.shotgun|12 Gauge Buckshot|0|False|
 |-1036635990|ammo.shotgun.fire|12 Gauge Incendiary Shell|0|False|
 |-727717969|ammo.shotgun.slug|12 Gauge Slug|0|False|
+|1171735914|electric.andswitch|AND Switch|100|True|
 |-1432674913|antiradpills|Anti-Radiation Pills|0|False|
 |1548091822|apple|Apple|0|False|
 |352130972|apple.spoiled|Rotten Apple|0|False|
@@ -56,7 +57,9 @@
 |602741290|burlap.shirt|Burlap Shirt|0|False|
 |-761829530|burlap.shoes|Burlap Shoes|0|False|
 |-194509282|knife.butcher|Butcher Knife|100|True|
+|1835946060|electric.cabletunnel|Cable Tunnel|100|False|
 |1783512007|cactusflesh|Cactus Flesh|0|False|
+|1973165031|cakefiveyear|Birthday Cake|10|False|
 |-1316706473|tool.camera|Camera|100|False|
 |1946219319|campfire|Camp Fire|0|False|
 |-700591459|can.beans|Can of Beans|0|False|
@@ -84,6 +87,7 @@
 |1367190888|corn|Corn|100|False|
 |-778875547|clone.corn|Corn Clone|0|False|
 |998894949|seed.corn|Corn Seed|0|False|
+|-216999575|electric.counter|Counter|100|True|
 |1965232394|crossbow|Crossbow|100|True|
 |-321733511|crude.oil|Crude Oil|0|False|
 |-97956382|cupboard.tool|Tool Cupboard|0|False|
@@ -99,9 +103,14 @@
 |1729120840|door.hinged.wood|Wooden Door|100|False|
 |-1112793865|door.key|Door Key|0|False|
 |1409529282|door.closer|Door Closer|0|False|
+|-502177121|electric.doorcontroller|Door Controller|100|True|
 |674734128|xmas.door.garland|Festive Doorway Garland|100|False|
 |-1519126340|dropbox|Drop Box|100|False|
 |1401987718|ducttape|Duct Tape|0|False|
+|-690968985|electric.blocker|Blocker|100|True|
+|-1448252298|electrical.branch|Electrical Branch|100|True|
+|-458565393|electrical.combiner|Root Combiner|100|True|
+|-746647361|electrical.memorycell|Memory Cell|100|True|
 |-1878475007|explosive.satchel|Satchel Charge|0|False|
 |1248356124|explosive.timed|Timed Explosive Charge|0|False|
 |-592016202|explosives|Explosives|0|False|
@@ -135,6 +144,7 @@
 |-335089230|gates.external.high.wood|High External Wooden Gate|0|False|
 |479143914|gears|Gears|0|False|
 |999690781|geiger.counter|Geiger Counter|50|False|
+|-295829489|electric.generator.small|Small Generator|100|True|
 |-1819763926|generator.wind.scrap|Wind Turbine|0|False|
 |21402876|burlap.gloves.new|Burlap Gloves|0|False|
 |1366282552|burlap.gloves|Leather Gloves|0|False|
@@ -165,10 +175,12 @@
 |1877339384|burlap.headwrap|Burlap Headwrap|0|False|
 |1714496074|hat.candle|Candle Hat|0|False|
 |-1022661119|hat.cap|Baseball Cap|0|False|
+|968019378|clatter.helmet|Clatter Helmet|200|False|
 |-803263829|coffeecan.helmet|Coffee Can Helmet|200|True|
 |-1903165497|deer.skull.mask|Bone Helmet|100|True|
 |1181207482|heavy.plate.helmet|Heavy Plate Helmet|1000|True|
 |-1539025626|hat.miner|Miners Hat|0|False|
+|-575744869|partyhat|Party Hat|0|False|
 |-324675402|attire.reindeer.headband|Reindeer Antlers|0|False|
 |671063303|riot.helmet|Riot Helmet|150|True|
 |-1478212975|hat.wolf|Wolf Headdress|0|False|
@@ -203,8 +215,10 @@
 |-316250604|ladder.wooden.wall|Wooden Ladder|100|True|
 |-1663759755|trap.landmine|Land Mine|0|False|
 |1658229558|lantern|Lantern|100|False|
+|553270375|electric.battery.rechargable.large|Large Rechargable Battery|100|True|
 |-489848205|largecandles|Large Candle Set|180|True|
 |254522515|largemedkit|Large Medkit|0|False|
+|-798293154|electric.laserdetector|Laser Detector|100|True|
 |-132516482|weapon.mod.lasersight|Weapon Lasersight|300|False|
 |1381010055|leather|Leather|0|False|
 |1159991980|lock.code|Code Lock|0|False|
@@ -213,6 +227,7 @@
 |-1469578201|longsword|Longsword|150|True|
 |-1812555177|rifle.lr300|LR-300 Assault Rifle|100|True|
 |-2069578888|lmg.m249|M249|500|True|
+|28201841|rifle.m39|M39 Rifle|100|True|
 |-852563019|pistol.m92|M92 Pistol|100|True|
 |-1966748496|mace|Mace|150|True|
 |-1137865085|machete|Machete|100|True|
@@ -263,6 +278,7 @@
 |1953903201|pistol.nailgun|Nailgun|100|True|
 |-2097376851|ammo.nailgun.nails|Nailgun Nails|0|False|
 |1414245162|note|Note|0|False|
+|-1286302544|electric.orswitch|OR Switch|100|True|
 |1992974553|burlap.trousers|Burlap Trousers|0|False|
 |237239288|pants|Pants|0|False|
 |-1778159885|heavy.plate.pants|Heavy Plate Pants|1000|True|
@@ -283,6 +299,7 @@
 |-1622660759|xmas.present.large|Large Present|0|False|
 |756517185|xmas.present.medium|Medium Present|0|False|
 |-722241321|xmas.present.small|Small Present|0|False|
+|-2049214035|electric.pressurepad|Pressure Pad|100|True|
 |-1673693549|propanetank|Empty Propane Tank|0|False|
 |-567909622|pumpkin|Pumpkin|100|False|
 |1898094925|clone.pumpkin|Pumpkin Plant Clone|0|False|
@@ -346,11 +363,13 @@
 |-1819233322|sign.wooden.medium|Wooden Sign|0|False|
 |-1138208076|sign.wooden.small|Small Wooden Sign|0|False|
 |-1850571427|weapon.mod.silencer|Silencer|100|True|
+|-282113991|electric.simplelight|Simple Light|100|True|
 |-855748505|weapon.mod.simplesight|Simple Handmade Sight|300|False|
 |553887414|skull_fire_pit|Skull Fire Pit|0|False|
 |996293980|skull.human|Human Skull|0|False|
 |2048317869|skull.wolf|Wolf Skull|0|False|
 |-1754948969|sleepingbag|Sleeping Bag|100|False|
+|-692338819|electric.battery.rechargable.small|Small Rechargable Battery|100|True|
 |-1293296287|small.oil.refinery|Small Oil Refinery|0|False|
 |-369760990|stash.small|Small Stash|0|False|
 |-2058362263|smallcandles|Small Candle Set|60|True|
@@ -361,12 +380,14 @@
 |1263920163|grenade.smoke|Smoke Grenade|0|False|
 |-363689972|snowball|Snowball|100|True|
 |1629293099|snowman|Snowman|100|True|
+|2090395347|electric.solarpanel.large|Large Solar Panel|100|True|
 |-41440462|shotgun.spas12|Spas-12 Shotgun|100|True|
 |1602646136|spear.stone|Stone Spear|80|True|
 |1540934679|spear.wooden|Wooden Spear|100|True|
 |882559853|spiderweb|Spider Webs|100|True|
 |-92759291|spikes.floor|Wooden Floor Spikes|0|False|
 |-1100422738|spinner.wheel|Spinning wheel|0|False|
+|-563624462|electric.splitter|Splitter|100|True|
 |1885488976|spookyspeaker|Spooky Speaker|100|True|
 |-1021495308|metalspring|Metal Spring|0|False|
 |642482233|sticks|Sticks|0|False|
@@ -381,12 +402,14 @@
 |1397052267|supply.signal|Supply Signal|0|False|
 |1975934948|surveycharge|Survey Charge|0|False|
 |559147458|fishtrap.small|Survival Fish Trap|0|False|
+|1951603367|electric.switch|Switch|100|True|
 |1079279582|syringe.medical|Medical Syringe|0|False|
 |593465182|table|Table|100|False|
 |1523195708|targeting.computer|Targeting Computer|0|False|
 |2019042823|tarp|Tarp|0|False|
 |73681876|techparts|Tech Trash|0|False|
 |-1758372725|smg.thompson|Thompson|100|True|
+|665332906|electric.timer|Timer|100|True|
 |795236088|torch|Torch|50|False|
 |-1667224349|xmas.decoration.baubels|Decorative Baubels|0|False|
 |-209869746|xmas.decoration.candycanes|Decorative Plastic Candy Canes|0|False|
@@ -421,6 +444,7 @@
 |-119235651|waterjug|Water Jug|0|False|
 |2114754781|water.purifier|Water Purifier|0|False|
 |-1379835144|xmas.window.garland|Festive Window Garland|100|False|
+|-144417939|wiretool|Wire Tool|4|False|
 |-151838493|wood|Wood|0|False|
 |418081930|wood.armor.jacket|Wood Chestplate|75|False|
 |832133926|wood.armor.pants|Wood Armor Pants|100|False|
@@ -429,3 +453,4 @@
 |-1607980696|workbench3|Work Bench Level 3|0|False|
 |1058261682|xmas.lightstring|Christmas Lights|100|False|
 |794443127|xmas.tree|Christmas Tree|100|True|
+|1293102274|electric.xorswitch|XOR Switch|100|True|
