@@ -1,4 +1,4 @@
-# Terms of Use (Last updated: 11.11.18)
+# Terms of Use (Last updated: 22.12.18)
 
 ## 1. Global Terms
 1.1 By accessing any of our content, you are agreeing to be bound by these Terms of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing any of this content.
@@ -25,7 +25,11 @@
 
 3.4 Customer can share private product, but cannot sell it.
 
-3.5 Customers must pay half of the price established by us so that we begin making the order.
+3.5 Customers must pay prepayment* so that we begin making the order.
+
+3.6 After receiving the prepayment*, the developer tells the customer the estimated time of the work.
+
+3.7 The estimated time countdown begins when the developer says.
 
 ## 4. Payment and Refund
 4.1 Customer must pay all fees and taxes.
@@ -37,3 +41,4 @@
 ### Definitions
 * **Public product** *is a product that can be bought or downloaded by any customer.*
 * **Private product** *is a product that is only available for the person that orders it.*
+* **Prepayment** *is a half of the price established by us*
