@@ -34,7 +34,7 @@
 ## 4. Payment and Refund
 4.1 Customer must pay all fees and taxes.
 
-4.2 Customer can request a refund if the plugin hasn't been completed or it doesn't match customer's pre-made technical task. (Exclusion: see 4.3)
+4.2 Customer can request a refund if the plugin hasn't been completed and it doesn't match customer's pre-made technical task. (Exclusion: see 4.3)
 
 4.3 Customer cannot request a refund if the customer has not complied with paragraph 3.5.
 
