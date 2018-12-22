@@ -31,12 +31,18 @@
 
 3.7 The estimated time countdown begins when the developer says.
 
+3.8 If the developer wants to divide the order into several parts, it must be done.
+
+3.9 If the order was divided into several parts, every single part must have a price.
+
 ## 4. Payment and Refund
 4.1 Customer must pay all fees and taxes.
 
 4.2 Customer can request a refund if the plugin hasn't been completed and it doesn't match customer's pre-made technical task. (Exclusion: see 4.3)
 
 4.3 Customer cannot request a refund if the customer has not complied with paragraph 3.5.
+
+4.4 If the order was divided into several parts and work on at least one part was done, customer cannot request a refund in the amount of more than 25% of the prepayment.
 
 ### Definitions
 * **Public product** *is a product that can be bought or downloaded by any customer.*
