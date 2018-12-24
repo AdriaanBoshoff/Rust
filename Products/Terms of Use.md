@@ -36,6 +36,10 @@
 
 3.7 The estimated time countdown begins when the developer says.
 
+3.8 If the developer wants to divide the order into several parts, it must be done.
+
+3.9 If the order was divided into several parts, every single part must have a price.
+
 ## 4. Payment and Refund
 
 4.1 Customer must pay all fees and taxes.
@@ -44,7 +48,9 @@
 
 4.3 Customer cannot request a refund for a private product if he has not complied with paragraph 3.5.
 
-4.4 Customer can request a refund for a public product if the product doesn't match it's description, photos and videos.
+4.4 If the order was divided into several parts and work on at least one part was done, customer cannot request a refund in the amount of more than 25% of the prepayment.
+
+4.5 Customer can request a refund for a public product if the product doesn't match it's description, photos and videos. (Exclusion: see 1.2)
 
 ### Definitions
 
