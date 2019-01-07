@@ -1,5 +1,38 @@
 |ID|Name|
 |:-:|:-|
+|1406640269|Hollow Point Gifter|
+|1575397458|Huntsman AK47|
+|1575872461|Large Suitcase|
+|1576671137|Northwind SAR|
+|1572401500|Taurus Pick Axe|
+|1572398539|Taurus Hatchet|
+|1575268855|Electro Garage Door|
+|1575177513|Tribe Furnace|
+|1565444858|Caution Crossbow|
+|1563667918|Dragon's Spit|
+|1566048269|Sea Eater SAR|
+|1571099329|Nineties Zapper|
+|1568609421|Buccaneer Blade|
+|1565127136|Sleepover Bag|
+|1565096963|Dreamer's Door|
+|1569062511|BullDozer LR300|
+|1565217605|Charitable Rust 2018 Cap|
+|1564974974|Charitable Rust 2018 Hoodie|
+|1565532295|Charitable Rust 2018 Box|
+|1552705918|CCSC Gloves|
+|1552703337|CCSC Hoodie|
+|1552705077|CCSC Pants|
+|1559298697|Tooth Monster Crossbow|
+|1559244155|Bone Dragon Hatchet|
+|1553359638|Cold Hunter LR 300|
+|1553603344|Dead Ringer Pump Shotgun|
+|1557788243|Bone Scepter|
+|1553326380|Runic Pick Axe|
+|1553321287|Runic Hatchet|
+|1557857999|Cargo Ship Security Door|
+|1557427113|Open Stone Box|
+|1558579257|Troll Daddy Roadsign Pants|
+|1558586741|Troll Daddy Roadsign Vest|
 |1535660827|Beauty Kills|
 |1547874663|Troll Daddy Mask|
 |1205721755|Lost Hope Door|
